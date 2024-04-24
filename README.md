@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/791326327.svg)](https://zenodo.org/doi/10.5281/zenodo.11060798)
+
 # soil_adaptation_ellis_agren
 
 Data and code to reproduce the results in the manuscript "Adaptation to soil type contributes little to local adaptation in an Italian and a Swedish population of Arabidopsis thaliana growing on contrasting soils"
